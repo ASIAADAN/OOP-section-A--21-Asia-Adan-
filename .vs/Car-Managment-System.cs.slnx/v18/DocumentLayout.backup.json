@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abc\\OneDrive\\Documents\\csharp\\Car-Managment-System.cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79CD5CD2-3AD6-4707-B53A-28D720DD6457}|Car-Managment-System.cs\\Car-Managment-System.cs.csproj|c:\\users\\abc\\onedrive\\documents\\csharp\\car-managment-system.cs\\car-managment-system.cs\\customer\\repositiory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CD5CD2-3AD6-4707-B53A-28D720DD6457}|Car-Managment-System.cs\\Car-Managment-System.cs.csproj|solutionrelative:car-managment-system.cs\\customer\\repositiory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CD5CD2-3AD6-4707-B53A-28D720DD6457}|Car-Managment-System.cs\\Car-Managment-System.cs.csproj|C:\\Users\\abc\\OneDrive\\Documents\\csharp\\Car-Managment-System.cs\\car-managment-system.cs\\customer\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CD5CD2-3AD6-4707-B53A-28D720DD6457}|Car-Managment-System.cs\\Car-Managment-System.cs.csproj|solutionrelative:car-managment-system.cs\\customer\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CD5CD2-3AD6-4707-B53A-28D720DD6457}|Car-Managment-System.cs\\Car-Managment-System.cs.csproj|C:\\Users\\abc\\OneDrive\\Documents\\csharp\\Car-Managment-System.cs\\car-managment-system.cs\\customer\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CD5CD2-3AD6-4707-B53A-28D720DD6457}|Car-Managment-System.cs\\Car-Managment-System.cs.csproj|solutionrelative:car-managment-system.cs\\customer\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CD5CD2-3AD6-4707-B53A-28D720DD6457}|Car-Managment-System.cs\\Car-Managment-System.cs.csproj|C:\\Users\\abc\\OneDrive\\Documents\\csharp\\Car-Managment-System.cs\\car-managment-system.cs\\admin\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CD5CD2-3AD6-4707-B53A-28D720DD6457}|Car-Managment-System.cs\\Car-Managment-System.cs.csproj|solutionrelative:car-managment-system.cs\\admin\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CD5CD2-3AD6-4707-B53A-28D720DD6457}|Car-Managment-System.cs\\Car-Managment-System.cs.csproj|C:\\Users\\abc\\OneDrive\\Documents\\csharp\\Car-Managment-System.cs\\car-managment-system.cs\\admin\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CD5CD2-3AD6-4707-B53A-28D720DD6457}|Car-Managment-System.cs\\Car-Managment-System.cs.csproj|solutionrelative:car-managment-system.cs\\admin\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CD5CD2-3AD6-4707-B53A-28D720DD6457}|Car-Managment-System.cs\\Car-Managment-System.cs.csproj|C:\\Users\\abc\\OneDrive\\Documents\\csharp\\Car-Managment-System.cs\\car-managment-system.cs\\car\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CD5CD2-3AD6-4707-B53A-28D720DD6457}|Car-Managment-System.cs\\Car-Managment-System.cs.csproj|solutionrelative:car-managment-system.cs\\car\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CD5CD2-3AD6-4707-B53A-28D720DD6457}|Car-Managment-System.cs\\Car-Managment-System.cs.csproj|C:\\Users\\abc\\OneDrive\\Documents\\csharp\\Car-Managment-System.cs\\car-managment-system.cs\\car\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CD5CD2-3AD6-4707-B53A-28D720DD6457}|Car-Managment-System.cs\\Car-Managment-System.cs.csproj|solutionrelative:car-managment-system.cs\\car\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CD5CD2-3AD6-4707-B53A-28D720DD6457}|Car-Managment-System.cs\\Car-Managment-System.cs.csproj|C:\\Users\\abc\\OneDrive\\Documents\\csharp\\Car-Managment-System.cs\\car-managment-system.cs\\car\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CD5CD2-3AD6-4707-B53A-28D720DD6457}|Car-Managment-System.cs\\Car-Managment-System.cs.csproj|solutionrelative:car-managment-system.cs\\car\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CD5CD2-3AD6-4707-B53A-28D720DD6457}|Car-Managment-System.cs\\Car-Managment-System.cs.csproj|C:\\Users\\abc\\OneDrive\\Documents\\csharp\\Car-Managment-System.cs\\car-managment-system.cs\\car\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CD5CD2-3AD6-4707-B53A-28D720DD6457}|Car-Managment-System.cs\\Car-Managment-System.cs.csproj|solutionrelative:car-managment-system.cs\\car\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CD5CD2-3AD6-4707-B53A-28D720DD6457}|Car-Managment-System.cs\\Car-Managment-System.cs.csproj|c:\\users\\abc\\onedrive\\documents\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "project.cs",
+              "DocumentMoniker": "C:\\Users\\abc\\OneDrive\\Documents\\project.cs",
+              "RelativeDocumentMoniker": "..\\..\\project.cs",
+              "ToolTip": "C:\\Users\\abc\\OneDrive\\Documents\\project.cs",
+              "RelativeToolTip": "..\\..\\project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T13:30:05.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\abc\\OneDrive\\Documents\\csharp\\Car-Managment-System.cs\\Car-Managment-System.cs\\Customer\\Service.cs",
+              "RelativeDocumentMoniker": "Car-Managment-System.cs\\Customer\\Service.cs",
+              "ToolTip": "C:\\Users\\abc\\OneDrive\\Documents\\csharp\\Car-Managment-System.cs\\Car-Managment-System.cs\\Customer\\Service.cs",
+              "RelativeToolTip": "Car-Managment-System.cs\\Customer\\Service.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T13:02:30.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repositiory.cs",
+              "DocumentMoniker": "C:\\Users\\abc\\OneDrive\\Documents\\csharp\\Car-Managment-System.cs\\Car-Managment-System.cs\\Customer\\Repositiory.cs",
+              "RelativeDocumentMoniker": "Car-Managment-System.cs\\Customer\\Repositiory.cs",
+              "ToolTip": "C:\\Users\\abc\\OneDrive\\Documents\\csharp\\Car-Managment-System.cs\\Car-Managment-System.cs\\Customer\\Repositiory.cs",
+              "RelativeToolTip": "Car-Managment-System.cs\\Customer\\Repositiory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T13:02:19.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\abc\\OneDrive\\Documents\\csharp\\Car-Managment-System.cs\\Car-Managment-System.cs\\Customer\\Model.cs",
+              "RelativeDocumentMoniker": "Car-Managment-System.cs\\Customer\\Model.cs",
+              "ToolTip": "C:\\Users\\abc\\OneDrive\\Documents\\csharp\\Car-Managment-System.cs\\Car-Managment-System.cs\\Customer\\Model.cs",
+              "RelativeToolTip": "Car-Managment-System.cs\\Customer\\Model.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA7wBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T13:02:04.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\abc\\OneDrive\\Documents\\csharp\\Car-Managment-System.cs\\Car-Managment-System.cs\\Admin\\Service.cs",
+              "RelativeDocumentMoniker": "Car-Managment-System.cs\\Admin\\Service.cs",
+              "ToolTip": "C:\\Users\\abc\\OneDrive\\Documents\\csharp\\Car-Managment-System.cs\\Car-Managment-System.cs\\Admin\\Service.cs",
+              "RelativeToolTip": "Car-Managment-System.cs\\Admin\\Service.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA7wDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T13:01:05.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\abc\\OneDrive\\Documents\\csharp\\Car-Managment-System.cs\\Car-Managment-System.cs\\Admin\\Model.cs",
+              "RelativeDocumentMoniker": "Car-Managment-System.cs\\Admin\\Model.cs",
+              "ToolTip": "C:\\Users\\abc\\OneDrive\\Documents\\csharp\\Car-Managment-System.cs\\Car-Managment-System.cs\\Admin\\Model.cs",
+              "RelativeToolTip": "Car-Managment-System.cs\\Admin\\Model.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T13:00:24.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UI.cs",
+              "DocumentMoniker": "C:\\Users\\abc\\OneDrive\\Documents\\csharp\\Car-Managment-System.cs\\Car-Managment-System.cs\\Car\\UI.cs",
+              "RelativeDocumentMoniker": "Car-Managment-System.cs\\Car\\UI.cs",
+              "ToolTip": "C:\\Users\\abc\\OneDrive\\Documents\\csharp\\Car-Managment-System.cs\\Car-Managment-System.cs\\Car\\UI.cs",
+              "RelativeToolTip": "Car-Managment-System.cs\\Car\\UI.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAAALQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T02:29:18.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\abc\\OneDrive\\Documents\\csharp\\Car-Managment-System.cs\\Car-Managment-System.cs\\Car\\Service.cs",
+              "RelativeDocumentMoniker": "Car-Managment-System.cs\\Car\\Service.cs",
+              "ToolTip": "C:\\Users\\abc\\OneDrive\\Documents\\csharp\\Car-Managment-System.cs\\Car-Managment-System.cs\\Car\\Service.cs",
+              "RelativeToolTip": "Car-Managment-System.cs\\Car\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T02:28:59.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\abc\\OneDrive\\Documents\\csharp\\Car-Managment-System.cs\\Car-Managment-System.cs\\Car\\Repository.cs",
+              "RelativeDocumentMoniker": "Car-Managment-System.cs\\Car\\Repository.cs",
+              "ToolTip": "C:\\Users\\abc\\OneDrive\\Documents\\csharp\\Car-Managment-System.cs\\Car-Managment-System.cs\\Car\\Repository.cs",
+              "RelativeToolTip": "Car-Managment-System.cs\\Car\\Repository.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAQwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T02:28:35.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\abc\\OneDrive\\Documents\\csharp\\Car-Managment-System.cs\\Car-Managment-System.cs\\Car\\Model.cs",
+              "RelativeDocumentMoniker": "Car-Managment-System.cs\\Car\\Model.cs",
+              "ToolTip": "C:\\Users\\abc\\OneDrive\\Documents\\csharp\\Car-Managment-System.cs\\Car-Managment-System.cs\\Car\\Model.cs",
+              "RelativeToolTip": "Car-Managment-System.cs\\Car\\Model.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvx8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T02:28:10.733Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

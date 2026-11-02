@@ -1,0 +1,7 @@
+C:\Users\abc\OneDrive\Documents\csharp\Car-Managment-System.cs\Car-Managment-System.cs\bin\Debug\Car-Managment-System.cs.exe.config
+C:\Users\abc\OneDrive\Documents\csharp\Car-Managment-System.cs\Car-Managment-System.cs\bin\Debug\Car-Managment-System.cs.exe
+C:\Users\abc\OneDrive\Documents\csharp\Car-Managment-System.cs\Car-Managment-System.cs\bin\Debug\Car-Managment-System.cs.pdb
+C:\Users\abc\OneDrive\Documents\csharp\Car-Managment-System.cs\Car-Managment-System.cs\obj\Debug\Car-Managment-System.cs.csproj.AssemblyReference.cache
+C:\Users\abc\OneDrive\Documents\csharp\Car-Managment-System.cs\Car-Managment-System.cs\obj\Debug\Car-Managment-System.cs.csproj.CoreCompileInputs.cache
+C:\Users\abc\OneDrive\Documents\csharp\Car-Managment-System.cs\Car-Managment-System.cs\obj\Debug\Car-Managment-System.cs.exe
+C:\Users\abc\OneDrive\Documents\csharp\Car-Managment-System.cs\Car-Managment-System.cs\obj\Debug\Car-Managment-System.cs.pdb

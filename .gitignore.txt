@@ -1,0 +1,1 @@
+echo -e "bin/\nobj/\n.vs/"> .gitignore
