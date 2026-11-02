@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Car-Managment-System.cs\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79CD5CD2-3AD6-4707-B53A-28D720DD6457}|Car-Managment-System.cs\\Car-Managment-System.cs.csproj|c:\\users\\abc\\onedrive\\documents\\csharp\\car-managment-system.cs\\car-managment-system.cs\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79CD5CD2-3AD6-4707-B53A-28D720DD6457}|Car-Managment-System.cs\\Car-Managment-System.cs.csproj|C:\\Users\\abc\\OneDrive\\Documents\\csharp\\Car-Managment-System.cs\\car-managment-system.cs\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79CD5CD2-3AD6-4707-B53A-28D720DD6457}|Car-Managment-System.cs\\Car-Managment-System.cs.csproj|solutionrelative:car-managment-system.cs\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{79CD5CD2-3AD6-4707-B53A-28D720DD6457}|Car-Managment-System.cs\\Car-Managment-System.cs.csproj|solutionrelative:car-managment-system.cs\\admin\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79CD5CD2-3AD6-4707-B53A-28D720DD6457}|Car-Managment-System.cs\\Car-Managment-System.cs.csproj|c:\\users\\abc\\onedrive\\documents\\csharp\\car-managment-system.cs\\car-managment-system.cs\\customer\\repositiory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79CD5CD2-3AD6-4707-B53A-28D720DD6457}|Car-Managment-System.cs\\Car-Managment-System.cs.csproj|C:\\Users\\abc\\OneDrive\\Documents\\csharp\\Car-Managment-System.cs\\car-managment-system.cs\\customer\\repositiory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79CD5CD2-3AD6-4707-B53A-28D720DD6457}|Car-Managment-System.cs\\Car-Managment-System.cs.csproj|solutionrelative:car-managment-system.cs\\customer\\repositiory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -82,8 +82,7 @@
               "RelativeToolTip": "Car-Managment-System.cs\\Properties\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T19:13:13.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-02T19:13:13.524Z"
             },
             {
               "$type": "Document",
@@ -119,8 +118,7 @@
               "RelativeToolTip": "Car-Managment-System.cs\\Customer\\Repositiory.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAkwA0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T13:02:19.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T13:02:19.67Z"
             },
             {
               "$type": "Document",
@@ -156,8 +154,7 @@
               "RelativeToolTip": "Car-Managment-System.cs\\Admin\\Model.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T13:00:24.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T13:00:24.28Z"
             },
             {
               "$type": "Document",
